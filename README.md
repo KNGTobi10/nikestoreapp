@@ -1,6 +1,8 @@
 # Nike Sneaker  Store
 
-A new Flutter project.
+This a  Nike Store Mobile app project. 
+This is an online store app. 
+Where you can place an order for shoes. 
 
 ## Getting Started
 
