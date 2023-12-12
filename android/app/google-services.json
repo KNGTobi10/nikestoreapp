@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836031189433",
+    "project_id": "nikestore-eb431",
+    "storage_bucket": "nikestore-eb431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836031189433:android:f6cfbb6d0909c6806b6668",
+        "android_client_info": {
+          "package_name": "com.mycompany.nikesneakerstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6qZgjvFCGVG6ZsJhWepsDhwdBgBq6VrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
